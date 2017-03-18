@@ -1,0 +1,274 @@
+#container {
+	width: 80%;
+	height: 100%;
+	margin-left: auto;
+    margin-right: auto;
+	min-width: 800px;
+	max-width: 1000px;
+}
+
+#top-bar {
+	height: 
+}
+
+
+.top-bar-left .inline {
+	width: 25px;
+	height: 25px;
+	padding-left: 5px;
+	padding-top: 5px;
+}
+
+.top-bar-left a{
+	text-decoration: none;
+}
+
+.top-bar-left {
+	width: 50%;
+	float: left;
+}
+
+.top-bar-right {
+	float: right;
+}
+
+.top-bar-right img {
+	width: 25px;
+	height: 25px;
+
+}
+
+.border-bottom {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: rgba(0,0,0,.125);
+    padding-bottom: 6px;
+}
+
+.clearfix{
+	clear: both;
+}
+
+#titlewrap{
+	height: 120px;
+	overflow: hidden;
+}
+
+.logo {
+	float: left;
+}
+
+.border{
+	border-style: solid;
+    border-width: 1px;
+    border-color: rgba(0,0,0,.125);
+}
+
+.logo img {
+	-webkit-transform: rotate(-15deg);
+	display: block;
+	border:1px solid silver;
+
+}
+
+img {
+	margin-left: 30px;
+}
+
+.logodown {
+	text-align: center;
+}
+
+.ml4{
+	margin-left: 4rem;
+}
+.title {
+	float: left;
+    width: 50%;
+}
+#titlewrap .border-bottom {
+	padding-bottom: 20px;
+}
+.title img{
+	margin-left: 300px
+}
+
+.titledown {
+	padding-bottom: 10px;
+	margin-left: 245px;
+	text-align: center;
+}
+
+.dan {
+	margin-left: 10px;
+}
+
+.kl {
+	margin-left: 10px;
+}
+
+.bar-right{
+	float: left;
+	margin-left: 265px;
+}	
+.bar-right-up a{
+	text-decoration: none;
+	margin-left: 10px;
+}
+.list li{
+	display: inline;
+	padding: 15px;
+}
+
+.list li a{
+	text-decoration: none;
+	color: black;
+}
+
+.border-double{
+	border-bottom: 2px solid black;
+}
+
+.z3{
+	z-index: 3;
+}
+
+.left-bar{
+	width: 25%;
+	float: left;
+}
+
+.up a{
+	text-decoration: none;
+	color: lightgray;
+}
+.vest{
+	width: 250px
+	
+}
+.vest a{
+	color: black;
+	font-family: 'Roboto Slab',serif;
+    line-height: 1.3;
+    text-decoration: none;
+    font-size: 32px;
+}
+
+.autor h6{
+	color: lightgray;
+	font-family: arial,sans-serif;
+	font-size: 10px;
+}
+
+.autor{
+	width: 200px;
+	display: inline;
+}
+
+.autor a{
+	text-decoration: none;
+	font-size: 10px;
+	font-family: arial,sans-serif;
+	color: lightgray;
+
+}
+
+.text h5{
+	font-size: 1rem;
+}
+.clearfix{
+	clear: both;
+	float: none;
+}
+.center{
+	float: left;
+	width: 50%;
+	margin-top: 30px;
+}
+
+.suptitle{
+	margin-top: 13px;
+    margin-bottom: 30px;
+    margin-left: 27px;
+    text-decoration: none;
+}
+
+.suptitle a{
+	text-decoration: none;
+	color: lightgray;
+}
+.title{
+	margin-left: 20px;
+}
+.title a{
+	text-decoration: none;
+	color: black;
+}
+.main-text{
+	margin-top: 7px;
+	margin-left: 20px;
+	width: 394px;
+}
+
+.main-text h5{
+	font-size: 1rem;
+    line-height: 1.5;
+}
+
+.right-bar{
+	width: 25%;
+	float: left;
+}
+
+.news1{
+	margin-top: 30px;
+}
+
+.pic-left{
+	float: left;
+}
+
+.subtitle1{
+	float: left;
+	margin-left: 15px;
+	margin-top: 
+}
+
+.subtitle1 h6{
+	margin-top: 2px;
+}
+.subtitle1 a{
+	text-decoration: none;
+}
+
+.box-pic{
+	float: left;
+	width: 166px;
+}
+
+.pick-up{
+	margin-top: 15px;
+}
+
+.pick-up img{
+	margin-left: 1px;
+	margin-right: 60px;
+}
+
+.line{
+	border-top: 1px solid black;
+    text-align:center;
+	margin-top:20px;
+}
+.line span{
+	background:white;
+	position:relative;
+	top:-12px;
+	padding-right: 20px;
+    padding-left: 20px;
+    font-weight: 700;
+    font-size: .875rem;
+    font-family: Georgia,Times,'Times New Roman',serif;
+}
+}
+
