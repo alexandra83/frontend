@@ -297,7 +297,7 @@
 	font-family: 'Roboto Slab',serif;
     line-height: 1.3;
     display: block;
-    font-size: 22px;
+    font-size: 19px;
     font-weight: 900;
     margin-top: 3px;
 }
@@ -339,6 +339,7 @@
 }
 .intro-text{
 	margin-top: 15px;
+	margin-right: 15px;
 }
 .row1 .suptitle{
 	float: left;
@@ -371,4 +372,106 @@
 .content-world{
 	height: 650px;
 }
-
+.content-p .row1{
+	width: 50%;
+}
+.content-p .row1 .date-time{
+	position: relative;
+	top: 30%;
+	left: 50%;
+}
+.content-p .naslov {
+	width: 111%;
+}
+.content-p .intro-text{
+	width: 106%;
+}
+.right-box{
+	float: left;
+    width: 21%;
+    margin-left: 21px;
+}
+.right-box .date-time{
+	float: left;
+    font-size: 10px;
+    margin-left: 80px;
+    position: relative;
+    top: -13px;
+    left: 6%;
+}
+.right-boxS{
+	float: left;
+	width: 25%;
+	margin-left:19px;
+}
+.right-boxS .intro-text{
+	margin-bottom: 16px;
+}
+.content-p{
+	height: 600px;
+}
+.content-d .naslov{
+	font-size: 15px;
+    margin-top: 13px;
+    margin-bottom: 17px;
+}
+.box-right{
+	width: 33%;
+	float: left;
+}
+.box-right .img-left{
+	float: left;
+	margin-right: 10px;
+}
+.box-center{
+	width: 33%;
+	float: left;
+	margin-left: 15px;
+}
+.box-center .img-left{
+	float: left;
+	margin-right: 15px;
+}
+.box-baner{
+	width: 0%;
+	height: 340px;
+}
+.box-baner .baner{
+	margin-left: 15px;
+}
+.content-e{
+	height: 655px;
+}
+.content-e .right-box{
+	margin-left: 27%;
+}
+.content-e .row1 .naslov{
+	width: 199%;
+}
+.content-e .row1 .under-pick .date-time{
+	position: relative;
+    left: 106%;
+    top: -15x;
+}
+.content-e .row1 .intro-text{
+	width: 188%;
+}
+.content-x .pickUp{
+	width: 96%;
+}
+.content-x .under-pick{
+	float: left;
+	margin-bottom: 12px;
+}
+.content-x{
+	height: 365px;
+}
+.content-r .pickUp{
+	width: 96%;
+}
+.content-r{
+	height: 446px;
+}
+.content-srbija{
+	height: 390px;
+}
